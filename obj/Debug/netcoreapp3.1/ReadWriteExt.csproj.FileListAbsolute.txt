@@ -1,0 +1,13 @@
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\bin\Debug\netcoreapp3.1\ReadWriteExt.exe
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\bin\Debug\netcoreapp3.1\ReadWriteExt.deps.json
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\bin\Debug\netcoreapp3.1\ReadWriteExt.runtimeconfig.json
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\bin\Debug\netcoreapp3.1\ReadWriteExt.runtimeconfig.dev.json
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\bin\Debug\netcoreapp3.1\ReadWriteExt.dll
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\bin\Debug\netcoreapp3.1\ReadWriteExt.pdb
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\obj\Debug\netcoreapp3.1\ReadWriteExt.csprojAssemblyReference.cache
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\obj\Debug\netcoreapp3.1\ReadWriteExt.AssemblyInfoInputs.cache
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\obj\Debug\netcoreapp3.1\ReadWriteExt.AssemblyInfo.cs
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\obj\Debug\netcoreapp3.1\ReadWriteExt.csproj.CoreCompileInputs.cache
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\obj\Debug\netcoreapp3.1\ReadWriteExt.dll
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\obj\Debug\netcoreapp3.1\ReadWriteExt.pdb
+C:\Users\3zAl7arbi\source\repos\ReadWriteExt\ReadWriteExt\obj\Debug\netcoreapp3.1\ReadWriteExt.genruntimeconfig.cache
